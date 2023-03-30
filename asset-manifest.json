@@ -1,41 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.4fe16c24.css",
-    "main.js": "/static/js/main.b06bd0a7.js",
-    "static/js/787.624a6ac0.chunk.js": "/static/js/787.624a6ac0.chunk.js",
-    "static/media/PatientGender.png": "/static/media/PatientGender.681be0b3fb4fab7c796f.png",
-    "static/media/patientAge.png": "/static/media/patientAge.fc6b669a244dc6f31559.png",
-    "static/media/mountains.jpg": "/static/media/mountains.d4457bbf9d6b5c2e6386.jpg",
-    "static/media/Department.png": "/static/media/Department.bfb686c1281f7a35121d.png",
-    "static/media/flower.jpg": "/static/media/flower.05e7bb411e73e9d38512.jpg",
-    "static/media/med.jpg": "/static/media/med.d943877f6c892465a781.jpg",
-    "static/media/lineMap.png": "/static/media/lineMap.7f04bddb8bed620257cb.png",
-    "static/media/doctor-sofia.jpg": "/static/media/doctor-sofia.deae6c887cb51e7da382.jpg",
-    "static/media/Dr.Logan.jpg": "/static/media/Dr.Logan.3fbe625eb9922f37efcb.jpg",
-    "static/media/Dr.Mason.jpg": "/static/media/Dr.Mason.8f3941f97ec10d7a7651.jpg",
-    "static/media/Dr.James.jpg": "/static/media/Dr.James.4e28d2b8252d8014bef7.jpg",
-    "static/media/Dr.Emma.jpg": "/static/media/Dr.Emma.63be3145613df18ee2db.jpg",
-    "static/media/Dr.Noah.jpg": "/static/media/Dr.Noah.955ea7c6b8cb405f8b55.jpg",
-    "static/media/department-5.jpg": "/static/media/department-5.70d8d7328da70989b700.jpg",
-    "static/media/department-7.jpg": "/static/media/department-7.79cd96793e004700fed5.jpg",
-    "static/media/Dr.Benja.jpg": "/static/media/Dr.Benja.abd7ae5bde08e61077b1.jpg",
-    "static/media/department-3.jpg": "/static/media/department-3.bb439df02cad09780072.jpg",
-    "static/media/department-9.jpg": "/static/media/department-9.26c96587abdf948d7327.jpg",
-    "static/media/Dr.Olivia.jpg": "/static/media/Dr.Olivia.4c7ebe1b0f4e98fd5767.jpg",
-    "static/media/doctor-Liam.jpg": "/static/media/doctor-Liam.4a1de317c8edd4e6440d.jpg",
-    "static/media/department-6.jpg": "/static/media/department-6.23f37be5cc38986e6d8e.jpg",
-    "static/media/department-4.jpg": "/static/media/department-4.2d085b899dbf9a647381.jpg",
-    "static/media/department-2.jpg": "/static/media/department-2.227cfb2056632c6c2e69.jpg",
-    "static/media/department-8.jpg": "/static/media/department-8.f90ffb36d4e183e5cd59.jpg",
-    "static/media/cardiology.jpg": "/static/media/cardiology.9fb7f055e4d41dadf057.jpg",
-    "static/media/incom2.png": "/static/media/incom2.14ddeb5f25d64b8b71ca.png",
+    "main.css": "/static/css/main.43100458.css",
+    "main.js": "/static/js/main.a9b374be.js",
+    "static/js/787.f660c51f.chunk.js": "/static/js/787.f660c51f.chunk.js",
+    "static/media/wallpaper.jpg": "/static/media/wallpaper.18be90b8f32f925587a0.jpg",
+    "static/media/que-mark.png": "/static/media/que-mark.4136ad03f9ec82973068.png",
+    "static/media/tyresize.png": "/static/media/tyresize.c41409096dc2fb862151.png",
     "index.html": "/index.html",
-    "main.4fe16c24.css.map": "/static/css/main.4fe16c24.css.map",
-    "main.b06bd0a7.js.map": "/static/js/main.b06bd0a7.js.map",
-    "787.624a6ac0.chunk.js.map": "/static/js/787.624a6ac0.chunk.js.map"
+    "main.43100458.css.map": "/static/css/main.43100458.css.map",
+    "main.a9b374be.js.map": "/static/js/main.a9b374be.js.map",
+    "787.f660c51f.chunk.js.map": "/static/js/787.f660c51f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fe16c24.css",
-    "static/js/main.b06bd0a7.js"
+    "static/css/main.43100458.css",
+    "static/js/main.a9b374be.js"
   ]
 }
